@@ -1,0 +1,9 @@
+# DATABASE-REDSHIFT — Benchmark 20K batch (SLCOPRBA-1147)
+version: 1.0.0
+global:
+  application: dba_rncr_batch
+  type: struct
+  tech: database
+  language: redshift
+  jdk: 8
+  order: 3
